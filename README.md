@@ -7,7 +7,7 @@ I am **Shaik Mohammad Fayaz**, a Full Stack Developer specializing in building s
 ## 🌐 Live Portfolio
 
 **Portfolio:**  
-https://shaik007fayaz.github.io/portfolio/
+https://shaik007fayaz.github.io/portfolio-/
 
 ## 👨‍💻 About Me
 
