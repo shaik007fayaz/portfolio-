@@ -25,6 +25,25 @@ interface Certification {
 const journey: RouteStop[] = [
   {
     id: '01',
+    year: '10/2022 — 01/2024',
+    title: 'FULL STACK DEVELOPER INTERN',
+    organization: 'VENUS UNIVERSAL LIMITED · BANGALORE',
+    description:
+      'Developed a complete real estate application from frontend to backend. Built responsive React.js frontend screens for property listing, search, and details. Created RESTful APIs using ASP.NET Core and C# for managing users and property information. Implemented CRUD operations for property management and integrated the React frontend with ASP.NET Core APIs and MySQL database. Assisted with testing, debugging, and deployment activities.',
+    technologies: [
+      'React.js',
+      'ASP.NET Core',
+      'C#',
+      'REST APIs',
+      'MySQL',
+      'HTML',
+      'CSS',
+      'Git',
+    ],
+  },
+
+  {
+    id: '02',
     year: '2022 — 2024',
     title: 'FREELANCE FULL STACK DEVELOPER',
     organization: 'FREELANCE · WEB & MOBILE DEVELOPMENT',
@@ -45,7 +64,7 @@ const journey: RouteStop[] = [
   },
 
   {
-    id: '02',
+    id: '03',
     year: '09/2024 — PRESENT',
     title: 'FULL STACK DEVELOPER',
     organization: 'WIPRO · CITI BANK PROJECT',
@@ -63,7 +82,7 @@ const journey: RouteStop[] = [
   },
 
   {
-    id: '03',
+    id: '04',
     year: 'WIPRO · PROJECT',
     title: 'FULL STACK DEVELOPER',
     organization: 'ENTERTAINMENT APP',
@@ -80,7 +99,7 @@ const journey: RouteStop[] = [
   },
 
   {
-    id: '04',
+    id: '05',
     year: 'CLOUD ENGINEERING',
     title: 'AZURE & MICROSERVICES',
     organization: 'CLOUD · BACKEND · DEVOPS',
