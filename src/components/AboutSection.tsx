@@ -466,7 +466,7 @@ export const AboutSection: React.FC = () => {
                     fontFamily: "'Bebas Neue', sans-serif",
                   }}
                 >
-                  2+
+                  3+
                 </span>
 
                 <span
